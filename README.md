@@ -52,4 +52,4 @@ for an updated version of the dependency.
 
 If you have any questions or feedback, please join our community Discord 
 from the Community tab in the top bar. You can also follow us on Twitter, 
-[@AutocodeHQ](https://twitter.com/AutocodeHQ).
+[@NTXCommunity](https://twitter.com/NTXCommunity).
