@@ -1,0 +1,10 @@
+{
+  "functions/events/discord/bot/playback/finished.js": {
+    "event": {
+      "guild_id": "816362107292745769",
+      "channel_id": "878407162928443403",
+      "last_media_url": "https://r1---sn-nx57ynld.googlevideo.com/videoplayback?expire=1630376166&ei=hjwtYZTyHNfHkgb106TgAg&ip=44.234.49.111&id=o-ANnMrBnSDMTQrjc_ppIqq30B5ZLQPSsypvsGl_WpN6ns&itag=251&source=youtube&requiressl=yes&mh=jE&mm=31%2C29&mn=sn-nx57ynld%2Csn-nx5s7n7d&ms=au%2Crdu&mv=m&mvi=1&pl=11&gcr=us&initcwndbps=1272500&vprv=1&mime=audio%2Fwebm&ns=v9tURebZ7dHYljCEYRat_BoG&gir=yes&clen=3200376&dur=228.661&lmt=1565997603068164&mt=1630354390&fvip=1&keepalive=yes&fexp=24001373%2C24007246&beids=9466587&c=WEB&txp=2311222&n=ZBzFQTZcro0XOSCC&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhALRSQCvJA97aCBYG2D3QEjgHBwg2ZgV11obkyLX6bEanAiAfDqyrcyo7m5nPzKUX90p5uIDfSYpQj0KIvPIcGc5hjA%3D%3D&ratebypass=yes&sig=AOq0QJ8wRgIhALL_aJb334ptn0AAvzZ3qgvrO2MTIByOTVN_6rA4PzxiAiEA6ePdhDlPajYI-JryyuDDSw37NzGrpM2WLGg_wynNKPE%3D",
+      "last_media_display_name": "When I'm Gone"
+    }
+  }
+}

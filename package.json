@@ -1,0 +1,10 @@
+{
+  "name": "nontoxic-music-bot",
+  "author": "Oalfab",
+  "publish": true,
+  "dependencies": {
+    "lib": "latest",
+    "ytdl-core": "^4.9.1",
+    "yt-search": "^2.10.1"
+  }
+}
